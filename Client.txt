@@ -1,0 +1,5 @@
+USERNAME,PASSWORD,NAME,GENDER,AGE,ADDRESS,PHONE NUMBER,INCOME,NO. OF VEHICLE INSURANCE
+yash,rajgangal,Yashraj Gangal,male,19,Versova,9517148635,900000,4
+bhavdhir,pot1,bhavesh dhirwani,male,19,Thane,7418653274,450000,2
+ritesh,0123,Ritesh Dubey,male,19,Vasai,7418652385,150000,1
+randuser,randpass,ABC,male,39,Mumbai,9876400058,800000,1

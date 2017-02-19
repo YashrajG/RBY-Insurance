@@ -1,0 +1,8 @@
+USERNAME,NUMBERPLATE,NAME,BRAND,AGE,InsAmount,ClaimAmt,CLAIMED
+bhavdhir,mh 28 bd 0312,Accord,Honda,2,405000,243000,7500
+bhavdhir,mh 33 co 7312,Pulse,Renault,3,364500,218700,0
+yash,mh 33 yg 3123,City,Honda,2,243000,145800,0
+yash,num5,pulse,renault,8,129139,77483,0
+yash,mh55,accord,honda,4,209952,125971,13000
+ritesh,MH 31 RD 8029,Tiago,Tata,8,258279,154967,3000
+randuser,MH 12 YGBD 31,Aqua,Toyota,2,486000,291600,2300
