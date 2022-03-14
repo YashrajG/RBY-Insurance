@@ -1,2 +1,2 @@
 # RBY-Insurance
-MU SE OOPM project by R,B and Y.
+MU SE OOPM project by R, B and Y.
